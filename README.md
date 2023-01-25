@@ -5,3 +5,5 @@ FUNDAMENTALS OF COMPUTING
 ![image](https://user-images.githubusercontent.com/113961764/214481148-e307f7c1-c652-4ca4-9f45-fb48bbfb3a5c.png)
 #area of space
 ![image](https://user-images.githubusercontent.com/113961764/214481237-c4da3cca-d837-4c64-9257-b1fb3d2b9649.png)
+#swaping two numbers
+![image](https://user-images.githubusercontent.com/113961764/214481376-c12f6c4f-d1bd-4ee8-8616-69b5bda78976.png)

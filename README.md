@@ -9,3 +9,5 @@ FUNDAMENTALS OF COMPUTING
 ![image](https://user-images.githubusercontent.com/113961764/214481376-c12f6c4f-d1bd-4ee8-8616-69b5bda78976.png)
 #mark list
 ![image](https://user-images.githubusercontent.com/113961764/214481482-8c3feea4-1c1f-4b65-a7de-bd776685b716.png)
+# arthamatic operations
+![image](https://user-images.githubusercontent.com/113961764/214481557-24adedf0-5e2f-4fbd-b187-f51e27a19208.png)

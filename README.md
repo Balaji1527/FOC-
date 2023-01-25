@@ -7,3 +7,5 @@ FUNDAMENTALS OF COMPUTING
 ![image](https://user-images.githubusercontent.com/113961764/214481237-c4da3cca-d837-4c64-9257-b1fb3d2b9649.png)
 #swaping two numbers
 ![image](https://user-images.githubusercontent.com/113961764/214481376-c12f6c4f-d1bd-4ee8-8616-69b5bda78976.png)
+#mark list
+![image](https://user-images.githubusercontent.com/113961764/214481482-8c3feea4-1c1f-4b65-a7de-bd776685b716.png)

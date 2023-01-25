@@ -1,6 +1,5 @@
 # FOC-
 FUNDAMENTALS OF COMPUTING
-\
 #square of number\**
 ![image](https://user-images.githubusercontent.com/113961764/214480967-69f1a2ca-9f0f-4960-a624-485962a9a5d9.png)
 
